@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  Ford-Fulkerson-lib.cpp
+  Generando código...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  Ford-Fulkerson-lib.vcxproj -> H:\Estructuras D1\Exposicion\Ford-Fulkerson-lib\Debug\Ford-Fulkerson-lib.exe
+  Ford-Fulkerson-lib.vcxproj -> H:\Estructuras D1\Exposicion\Ford-Fulkerson-lib\Debug\Ford-Fulkerson-lib.pdb (Partial PDB)

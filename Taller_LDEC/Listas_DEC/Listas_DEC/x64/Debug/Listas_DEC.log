@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  Listas_DEC.cpp
+  Generando código...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : /DEBUG:FASTLINK no se admite cuando hay presente código administrado; reiniciando vínculo con /DEBUG:FULL
+  Listas_DEC.vcxproj -> H:\Estructuras D1\Taller_LDEC\Listas_DEC\x64\Debug\Listas_DEC.exe
+  Listas_DEC.vcxproj -> H:\Estructuras D1\Taller_LDEC\Listas_DEC\x64\Debug\Listas_DEC.pdb (Partial PDB)
